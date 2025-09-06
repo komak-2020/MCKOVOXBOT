@@ -25,3 +25,5 @@ CODE = The first command the bot executes when joining the server (without /)
 O_CHAT = The bot’s first message
 
 TAG = How the bot should be tagged (@BOT or bot)
+
+V0.2Beta
