@@ -27,3 +27,7 @@ O_CHAT = The bot’s first message
 TAG = How the bot should be tagged (@BOT or bot)
 
 V0.2Beta
+
+
+https://discord.gg/VEXz2XBb
+
